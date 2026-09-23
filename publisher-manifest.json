@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6c753b9861dcfb1371117f2a",
+  "owner": "xkrdrqttsd",
+  "repo": "page-0ee857f1fe0b3a167c284dcc",
+  "title": "零北",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0ee857f1fe0b3a167c284dcc",
+      "a": "零北",
+      "b": "2027最新官网",
+      "entity": "零北",
+      "brand": "零北",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "236eaf9b226b8d343f270b8d7f16d4128137c382e37dd3035ac3171767f2b3a4",
+      "content": {
+        "primary_entity": "零北",
+        "keyword1": "零北",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，零北提供按月付费的海外加速订阅，基础版每月 100GB 流量，旗舰版每月 300GB，团队版每月 1000GB。按年付分别只需 ¥150/年、¥350/年、¥850/年，支持 3 台、5 台和 20 台设备同时在线。用户根据设备数量、流量需求与流媒体或游戏场景选择版本，再按客户端文档导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HERO_INTRO": "零北是面向日常跨境访问的海外加速服务，提供基础版、旗舰版与团队版三档订阅，覆盖从个人流媒体到多人协作的不同场景。用户可根据同时在线设备数、每月流量以及是否需要 IPLC 游戏专线来决定版本，并按年付或月付灵活结算。",
+          "AI_VISUAL_TITLE": "零北订阅三档可选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付可节省两个月费用",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏专线",
+          "AI_FEATURES_TITLE": "选择零北的三个看点",
+          "AI_FEATURES_INTRO": "从流量、设备数量到线路类型，零北的套餐差异清晰，便于按需匹配。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先数清常用设备数量。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 兼顾流媒体，1000GB 适合多人共享或高消耗场景。",
+          "AI_FEATURE_TITLE_3": "游戏与流媒体差异",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版则偏向高带宽与企业定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "不同设备对应不同订阅客户端，按平台选择并参考各自文档完成导入。",
+          "AI_PLANS_TITLE": "零北套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付为 ¥150/年、¥350/年、¥850/年，流量与设备数逐级提升。",
+          "AI_GUIDE_TITLE": "开通零北三步",
+          "AI_GUIDE_INTRO": "选定版本后，确认设备适配要求并导入订阅，就能开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐版本",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量以及是否需要游戏专线或流媒体解锁，在基础版、旗舰版与团队版之间确定一档。",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TEXT_2": "查看常用设备是否在支持范围内，核对同时在线设备数量与套餐限制是否匹配，再决定月付或年付。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在所选客户端中按对应文档添加订阅地址，完成节点更新后即可开始使用零北加速服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "零北订阅按需匹配",
+          "AI_CLOSING_TEXT": "先数清设备与流量需求，再挑选基础版、旗舰版或团队版开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "零北套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "不同档位对应不同流量与设备数，可在当前周期结束后按需求重新选择基础版、旗舰版或团队版，具体调整方式以订阅管理页说明为准。",
+          "AI_FAQ_QUESTION_2": "一台账号能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出数量可能影响连接，按实际设备数选择档位更稳妥。",
+          "AI_FAQ_QUESTION_3": "年付相比月付有哪些不同？",
+          "AI_FAQ_ANSWER_3": "年付价格更低，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，适合长期稳定使用的用户，权益与对应月付档位一致。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线针对延迟敏感场景做了优化，适合网络游戏、实时语音与高码率流媒体播放，比普通线路在稳定性上更有针对性。",
+          "AI_FAQ_QUESTION_5": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "获取订阅地址后，在所属客户端的订阅或配置管理入口粘贴并更新即可。不同客户端操作路径不同，建议参照对应客户端文档进行导入。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vpn-4t7gt58f.com",
+    "host": "xn--vpn-4t7gt58f.com"
+  },
+  "file_hashes": {
+    "index.html": "220e5576559d573a506ccb40e71af88636b591be52c16c3d7797f001e6e672fc",
+    "sitemap.xml": "9b4ef0466220fda15317b479daac10e6b453502e35ab5161ec69afae10fc015d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cd32c07aa1de1b2a996a2ed550f722dad6821959e2488ef18a6c6b0ba0bb888c",
+    "robots.txt": "efc172aa981e76a9c2d43f17d2f8ff26d900bb79b4fc15846c72f3e908e316dc",
+    "8c55d8dc4527b83718f51bb3f4f47542.txt": "2782f68649d6da7228d1836a1a81966fbfbeb8cea73088b2c80f140659c7fdf5"
+  },
+  "revision": "57e0007280d1b8de691a33874a772b752882c741a2ad3af81f5fdd3882912b99"
+}
